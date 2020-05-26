@@ -1,0 +1,2 @@
+# python-program-to-calculate-a-loan-repayment-schedule
+A python program that calculates the value of repayments taking into account 2 scenarios: equal installments or descending installments. The user decides the loan value, the tenure (years) and the interest rate. The output shows the repayment schedule. Each monthly installment is broke in the principal covered and the interest covered. Each line also shows how much of the loan's principal is already covered to date.
